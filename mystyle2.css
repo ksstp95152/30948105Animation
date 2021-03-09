@@ -1,0 +1,31 @@
+.title
+{
+    font-size: 40px;
+    font-weight:bold;
+    background-color:rgba(255, 235, 205, 0.637);
+    color:black;
+    text-align: center;
+}
+
+.title2
+{
+    font-size: 20px;
+    font-weight:bold;
+    background-color:rgba(192, 192, 192, 0.432);
+    color: black;
+    text-align: center;
+}
+.title3
+{
+    font-size: 15px;
+    font-weight:bold;    
+}
+
+.title4
+{
+    background-color:blueviolet; 
+}
+.title5
+{
+    background-color: cadetblue;
+}
